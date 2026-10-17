@@ -7,7 +7,7 @@ const topics = {
         "Femme-Surrealism (challenging social expectations of domesticity)",
         "Political bias in cartography",
         "Neo-Jungian Character Archetypes",
-        "Logical Fallacies"
+        "Logical Fallacies",
         "Ethical criticism of facial recognition technology"
     ],
 
