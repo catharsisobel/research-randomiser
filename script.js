@@ -12,8 +12,8 @@ const topics = {
     ],
 
     medium: [
-        "Angels (https://www.youtube.com/watch?v=ErXWtdC2ZYI)",
-        "Language in the work of Homer (https://massolit.io/courses/homer-language)",
+        "Angels",
+        "Language in the work of Homer",
         "Self-realisation and self-actualisation in Psychology, Philosophy, and Religion",
         "Carter's 'The Sadeian Woman' and its application to 'The Bloody Chamber'",
         "The causes of the fall of the Roman Empire",
@@ -27,7 +27,7 @@ const topics = {
     large: [
         "The evolutionary function of aspects of human memory",
         "Psychological theories surrounding education",
-        "Classical 'katabasis' and different portrayals of the underworld",
+        "Classical katabasis and different portrayals of the underworld",
         "Could society be improved either with the removal of religion, or if everybody was to follow the same religion?",
         "Art history (inclduing non-western perspectives)"
     ]
