@@ -12,8 +12,8 @@ const topics = {
     ],
 
     medium: [
-        "Angels",
-        "Language in the work of Homer",
+        "Angels (https://www.youtube.com/watch?v=ErXWtdC2ZYI)",
+        "Language in the work of Homer (https://massolit.io/courses/homer-language)",
         "Self-realisation and self-actualisation in Psychology, Philosophy, and Religion",
         "Carter's 'The Sadeian Woman' and its application to 'The Bloody Chamber'",
         "The causes of the fall of the Roman Empire",
