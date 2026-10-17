@@ -1,41 +1,35 @@
 const topics = {
     small: [
-        "The Rosetta Stone",
-        "Mary Anning",
         "The Voynich manuscript",
-        "The Stanford prison experiment",
-        "The discovery of penicillin",
         "The Library of Alexandria",
-        "The Bauhaus building in Dessau",
-        "The Dunning-Kruger effect",
-        "The life of Ada Lovelace",
-        "The placebo effect"
+        "Man and His Symbols",
+        "Rotas-Sator Square",
+        "Femme-Surrealism (challenging social expectations of domesticity)",
+        "Political bias in cartography",
+        "Neo-Jungian Character Archetypes",
+        "Logical Fallacies"
+        "Ethical criticism of facial recognition technology"
     ],
 
     medium: [
-        "Schema theory and human memory",
-        "Magical realism as a literary genre",
-        "Linguistic relativity",
-        "The causes of the fall of the Western Roman Empire",
-        "The psychology of nostalgia",
+        "Angels (https://www.youtube.com/watch?v=ErXWtdC2ZYI)",
+        "Language in the work of Homer (https://massolit.io/courses/homer-language)",
+        "Self-realisation and self-actualisation in Psychology, Philosophy, and Religion",
+        "Carter's 'The Sadeian Woman' and its application to 'The Bloody Chamber'",
+        "The causes of the fall of the Roman Empire",
         "Gothic architecture",
-        "The reliability of eyewitness testimony",
-        "The philosophy of absurdism",
+        "Distortions of memory in eyewitness testimony",
+        "Absurdism",
         "The role of symbolism in Surrealist art",
         "The development of writing systems"
     ],
 
     large: [
-        "The evolution of human memory",
-        "The history and development of Surrealism",
-        "The rise and decline of the Maya civilisation",
-        "The relationship between language and thought",
-        "The development of theories of consciousness",
-        "The history of the English language",
-        "How cultural movements respond to political change",
-        "The development of psychological theories of learning",
-        "The history of censorship in literature",
-        "How humans construct and remember the past"
+        "The evolutionary function of aspects of human memory",
+        "Psychological theories surrounding education",
+        "Classical 'katabasis' and different portrayals of the underworld",
+        "Could society be improved either with the removal of religion, or if everybody was to follow the same religion?",
+        "Art history (inclduing non-western perspectives)"
     ]
 };
 
