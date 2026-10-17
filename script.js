@@ -1,4 +1,3 @@
-
 const topics = {
     small: [
         "The Rosetta Stone",
