@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Topic Randomiser</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+        <h1>Research Topic Randomiser</h1>
+
+        <label for="researchSize">SCALE OF RESEARCH</label>
+
+        <select id="researchSize">
+            <option value="">scale:</option>
+            <option value="small">small task</option>
+            <option value="medium">medium task</option>
+            <option value="large">large task</option>
+        </select>
+
+        <section class="topic-box">
+            <p id="topicLabel">Research Topic</p>
+            <h2 id="topic">choose scale to begin</h2>
+        </section>
+
+        <button id="randomiseButton" disabled>
+            RANDOMISE
+        </button>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
