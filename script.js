@@ -53,6 +53,7 @@ const topics = {
     ]
 };
 
+
 const sizeSelector = document.getElementById("researchSize");
 const topicDisplay = document.getElementById("topic");
 const topicLabel = document.getElementById("topicLabel");
