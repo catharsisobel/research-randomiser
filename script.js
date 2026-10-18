@@ -44,6 +44,8 @@ const topics = {
 
     large: [
         "The evolutionary function of aspects of human memory",
+        "Changes in language recording cultural change",
+        "Similarities in myths between cultures",
         "Psychological theories surrounding education",
         "Classical katabasis and different portrayals of the underworld",
         "Could society be improved either with the removal of religion, or if everybody was to follow the same religion?",
